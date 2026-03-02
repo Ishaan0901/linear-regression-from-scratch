@@ -70,5 +70,3 @@ This confirms that the implementation is mathematically correct.
 Ishaan  
 Aspiring Machine Learning Engineer  
 Learning in Public 🚀
-Aspiring Machine Learning Engineer  
-Learning in Public 🚀
