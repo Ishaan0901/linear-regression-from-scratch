@@ -65,6 +65,9 @@ This confirms that the implementation is mathematically correct.
 
 ---
 
+plt.scatter(x_test, y_test)
+plt.plot(x_test, model.predict(x_test.reshape(-1,1)))
+
 ## 👨‍💻 Author
 
 Ishaan  
