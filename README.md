@@ -1,4 +1,4 @@
-# 🚀 Linear Regression From Scratch
+#  Linear Regression From Scratch
 
 This project implements **Simple Linear Regression from scratch in Python** using the mathematical formulas for slope and intercept — without using sklearn for training.
 The implementation is validated by comparing results with `sklearn.linear_model.LinearRegression`.
